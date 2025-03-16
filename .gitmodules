@@ -1,3 +1,6 @@
 [submodule "AI-Based-Accident-Avoidance-System-AI-BAAS-Codes"]
 	path = AI-Based-Accident-Avoidance-System-AI-BAAS-Codes
 	url = https://github.com/aruncs31s/AI-Based-Accident-Avoidance-System-AI-BAAS-Codes
+[submodule "Microcontroller-Codes"]
+	path = Microcontroller-Codes
+	url = https://github.com/aruncs31s/AI-Based-Accident-Avoidance-System-AI-BAAS-Microcontroller-Codes
